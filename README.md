@@ -11,7 +11,7 @@ Data served with Excel xlsx format, you can convert them to csv or other formats
 * EUROCONTROL RAD Publication (D-34) Dates
 
 ### Notes:
-Each year is recorded on a separate sheets named as it's year. Sheet named as "info" contains version of data.
+Each year is recorded on a separate sheets named as it's year. Sheet named as "info" contains revision number of data.
 
 ### Source:
 https://www.nm.eurocontrol.int/RAD/common/airac_dates.html
