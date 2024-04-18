@@ -1,4 +1,4 @@
-# airac-dates
+# AIRAC Dates
 Detailed AIRAC cycles/dates up to 2026.
 
 Data served with Excel xlsx format, you can convert them to csv or other formats with Excel or other spreadsheet softwares if you need.
